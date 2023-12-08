@@ -1,1 +1,1 @@
-# IPL-Win-Loss-Score-Predictor
+# IPL Win Loss Score Predictor
